@@ -26,6 +26,7 @@ CyberSecurityChatBotGUI2 is a chatbot developed in C# using Windows Forms. The c
 4. Run the project by clicking Start.
 5. Interact with the chatbot through the GUI.
 
+Part 3
 Features Implemented
 
 * Windows Forms GUI
@@ -35,17 +36,33 @@ Features Implemented
 * Sentiment detection
 * Random responses
 * Event-driven programming
+Features Implemented
+Cybersecurity Chatbot
+User name recognition
+Sentiment detection
+Cybersecurity awareness responses
+Keyword-based NLP simulation
+Multiple phishing responses
+Task Assistant
+Add tasks
+Mark tasks as completed
+Delete tasks
+Set reminder dates
+Activity Log
+Records task additions
+Records task completions
+Records task deletions
+Includes timestamps
+Cybersecurity Quiz
+10 multiple-choice questions
+Automated scoring
+Feedback for answers
+Final score display
+Task Persistence
+Tasks are automatically saved
+Tasks are automatically loaded when the application starts
 
-Features to Test
 
-Try entering:
-
-* hello
-* my name is Lee
-* phishing
-* password
-* scam
-* suspicious links
 
 GitHub Repository
 
